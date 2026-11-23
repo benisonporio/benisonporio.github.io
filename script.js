@@ -5,13 +5,13 @@ let introduction = document.querySelector("h3");
 introduction.innerHTML = "ELECTRICAL ENGINEER | ASPIRING CYBERSECURITY PROGRAMMER";
 
 let homePhoto = document.querySelector(".home-photo");
-homePhoto.src = "images/photo1.JPEG";
+homePhoto.src = "photo1.JPEG";
 
 let aboutTitle = document.querySelector(".about-title");
 aboutTitle.innerHTML = "About";
 
 let aboutPhoto = document.querySelector(".about-photo");
-aboutPhoto.src = "images/photo2.JPEG";
+aboutPhoto.src = "photo2.JPEG";
 
 let paragraphOne = document.querySelector(".paragraph-1");
 paragraphOne.innerHTML = "Benison Porio is a Registered Electrical Engineer and Master Electrician who is pursuing a career in the programming industry, driven by his passion for technology since 2020. He is passionate about problem-solving, critical thinking, project management, and delivering quality service to clients.";
@@ -26,16 +26,16 @@ let hobbiesTitle = document.querySelector(".hobbies-title");
 hobbiesTitle.innerHTML = "Hobbies";
 
 let runningPhoto = document.querySelector(".running-photo");
-runningPhoto.src = "images/photo3.JPEG";
+runningPhoto.src = "photo3.JPEG";
 
 let hikingPhoto = document.querySelector(".hiking-photo");
-hikingPhoto.src = "images/photo4.JPEG";
+hikingPhoto.src = "photo4.JPEG";
 
 let songWritingPhoto = document.querySelector(".song-writing-photo");
-songWritingPhoto.src = "images/photo5.JPEG";
+songWritingPhoto.src = "photo5.JPEG";
 
 let codingPhoto = document.querySelector(".coding-photo");
-codingPhoto.src = "images/photo6.JPEG";
+codingPhoto.src = "photo6.JPEG";
 
 let runningText = document.querySelector(".running-text");
 runningText.innerHTML = "Running";
@@ -50,7 +50,7 @@ let codingText = document.querySelector(".coding-text");
 codingText.innerHTML = "Coding";
 
 let familyPhoto = document.querySelector(".contact-photo");
-familyPhoto.src = "images/famPhoto.JPEG";
+familyPhoto.src = "famPhoto.JPEG";
 
 let contactTitle = document.querySelector(".contact-title");
 contactTitle.innerHTML = "Work with me";
