@@ -182,7 +182,7 @@ body{
     margin-left: clamp(16px, 5vw, 60px);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .image-container-hobbies {
         flex-wrap: wrap;
         justify-content: center;
